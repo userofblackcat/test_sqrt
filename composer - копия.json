@@ -9,6 +9,6 @@
         }
     ],
 	"autoload": {
-		"classmap": ["src"]
+		"classmap": ["siteslave"]
 	}	
 }
