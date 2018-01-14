@@ -8,11 +8,7 @@
             "email": "you@example.com"
         }
     ],
-    "require": {}
 	"autoload": {
 		"classmap": ["siteslave"]
-	}
-	
-	
-	
+	}	
 }
